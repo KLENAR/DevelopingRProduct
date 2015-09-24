@@ -1,5 +1,7 @@
 
-**Course project for the "Developing Data Products" R course on Coursera.org**
+#Course project for the "Developing Data Products" R course on Coursera.org
+
+## Description
 
 Application use ltm package https://cran.r-project.org/web/packages/ltm/ltm.pdf. 
 
@@ -9,7 +11,7 @@ The application uses  latent trait the Two-Parameter Logistic model for analysis
 
 
 
-Data Set
+##Data Set
 
 
 Data Set is a results of dichotomous (0 or 1) test items by columns, file *.csv 
@@ -17,7 +19,7 @@ Data Set is a results of dichotomous (0 or 1) test items by columns, file *.csv
 Examlpes of file are in https://github.com/KLENAR/DevelopingRProduct/tree/master/data
 
 
-Prosessing
+##Prosessing
 
 
 On activate the application do with demo data set.
@@ -27,7 +29,7 @@ User  can load and reload his own file from local computer.
 User can choose nesessary parameters of his file *.csv 
 
 
-Results
+##Results
 
 The application shows
 
